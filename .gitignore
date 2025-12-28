@@ -1,0 +1,48 @@
+# Rust
+target/
+Cargo.lock
+*.rlib
+*.rmeta
+*.swp
+*.swo
+*~
+
+# Distribution
+dist/
+
+# IDE
+.vscode/
+.idea/
+*.iml
+*.sublime-workspace
+.DS_Store
+
+# Build artifacts
+*.pdb
+*.o
+*.so
+*.dylib
+*.dll
+*.a
+*.lib
+
+# Temporary files
+*.tmp
+temp_update/
+*.bak
+
+# OS
+.DS_Store
+Thumbs.db
+.directory
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Node
+node_modules/
+
+# Logs
+*.log
